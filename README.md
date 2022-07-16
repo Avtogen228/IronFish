@@ -18,7 +18,7 @@ There is huge untapped potential here — but only if users feel truly protected
 
 In this paper, we cover how Iron Fish works, and why we’ve built it this way. While we endeavor to explain things as much as possible and go over all relevant terminology, some parts will require a basic understanding of elliptic curve cryptography.
 
-# Commands for [the Aptos node](https://github.com/Avtogen228/Aptos/blob/main/Node)
+# Commands for [the IronFish node](https://github.com/Avtogen228/IronFish/blob/main/Node)
 
 Use `wget -q -O ironfish.sh https://raw.githubusercontent.com/Avtogen228/IronFish/main/Node && chmod +x ironfish.sh && sudo /bin/bash ironfish.sh` to install the node quickly.
 
